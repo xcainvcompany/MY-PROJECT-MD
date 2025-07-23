@@ -2,7 +2,7 @@
 
 
 # <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmkxanB6dmVpMDd4MTVremY1N3hhdHZqNjB0NnRybHJ1cW01YzB6diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dyjrpqaUVqCELGuQVr/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhika Exercise Management</h1>
