@@ -2,7 +2,8 @@
 
 
 # <p align="center">
-<a href='https://moewalls.com/anime/bocchi-after-dark-live-wallpaper/' target='_blank'><img src='https://moewalls.com/wp-content/uploads/2025/07/bocchi-after-dark-thumb-728x410.jpg' title='Bocchi After Dark Live Wallpaper'></a>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHkxYnB4YnN0aXhrYXFtcGhrdmpzODg1Mng4c2p6YXlpcHFybGJuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXd5YtB6mjLHkXQOhd/giphy.gif" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Dhika Exercise Management</h1>
 <h3 align="center">🌐 Pelajar & Web Designer | Clean Code Enthusiast 🚀</h3>
