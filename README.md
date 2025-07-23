@@ -9,7 +9,7 @@
 <h3 align="center">🌐 Pelajar & Web Designer | Clean Code Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F00FF&center=true&vCenter=true&width=435&lines=Web+Designer+in+progress+🔥;Creative+UI%2FUX+Thinker🧠;Coding+with+coffee+and+purpose☕" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjA2bGE4MGtjMTAzcW1nZjlmb2NicHhjaHpuaHlmZ2RnMnhuczRxYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/5iYAMIM8H8pWjBoPit/giphy.gif" />
 </p>
 
 ---
