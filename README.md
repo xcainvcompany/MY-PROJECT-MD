@@ -5,7 +5,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHkxYnB4YnN0aXhrYXFtcGhrdmpzODg1Mng4c2p6YXlpcHFybGJuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXd5YtB6mjLHkXQOhd/giphy.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhika Exercise Management</h1>
+<h1 align="center">Hi 👋, I'm Dhika Junir Devlopment</h1>
 <h3 align="center">🌐 Pelajar & Web Designer | Clean Code Enthusiast 🚀</h3>
 
 <p align="center">
@@ -81,7 +81,7 @@
 ---
 
 ### 💬 Get In Touch!
-📬 Email: reyvana.ap@gmail.com  
+📬 Email: reypanastarsskibidi@gmail.com  
 📍 Location: Indonesia (Tanah Bumbu, Kalimantan Selatan)  
 🤝 Available for collabs, design feedback, and remote projects.
 
